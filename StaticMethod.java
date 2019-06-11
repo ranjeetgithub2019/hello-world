@@ -8,7 +8,7 @@ public class StaticMethod {
 	static int sum()
 	{
 	
-		return x=y+6;
+		return x=y+9;
 		
 	}
 
